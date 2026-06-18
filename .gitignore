@@ -1,0 +1,28 @@
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Secrets and runtime data
+last_chat_id.txt
+.env
+*.pem
+*.key
+
+# Data files
+raww_addrA.csv
+raw_addresses.txt
+batch_*_results.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
